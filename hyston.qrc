@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Images/Clock.png</file>
+    <file>Images/8d0677df03bd3337ab1eb5452101f82c.jpg</file>
+    <file>Images/25ab1d32910f0cb29a0779cdc080c8f3.jpg</file>
+    <file>Images/sign3.jpg</file>
+    <file>Images/388b132886a85831a52d251e2a774867.png</file>
+    <file>Images/sign3.jpg</file>
+    <file>Images/audio.png</file>
+    <file>Images/hello.jpg</file>
+    <file>Images/sign1.jpg</file>
+    <file>Images/speech.png</file>
+    <file>Images/sign.jpg</file>
+    <file>Images/text.png</file>
+    <file>Images/icons8_Audio_Book_50px.png</file>
+    <file>Images/icons8_Close_Window_64px.png</file>
+    <file>Images/icons8_Home_50px.png</file>
+    <file>Images/icons8_Menu_64px.png</file>
+    <file>Images/icons8_Microphone_50px.png</file>
+    <file>Images/icons8_Minimize_Window_64px.png</file>
+    <file>Images/icons8_Print_50px.png</file>
+    <file>Images/icons8_Print_50px_1.png</file>
+    <file>Images/icons8_Print_50px_2.png</file>
+    <file>Images/icons8_Restore_Window_64px.png</file>
+    <file>Images/icons8_Settings_50px.png</file>
+    <file>Images/icons8_Sign_Language_50px.png</file>
+    <file>Images/icons8_Sign_Language_50px_1.png</file>
+    <file>Images/icons8_Sign_Language_64px.png</file>
+    <file>Images/icons8_Translator_50px.png</file>
+    <file>Images/icons8_Voice_50px.png</file>
+    <file>Images/icons8_Voice_50px_1.png</file>
+    <file>Images/icons8_Voice_Recognition_50px.png</file>
+    <file>Images/icons8_Voice_Recognition_50px_3.png</file>
+  </qresource>
+</RCC>
